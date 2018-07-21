@@ -34,7 +34,6 @@ const styles = StyleSheet.create({
   },
 
   separator: {
-    width: '100%',
     height: 1,
     marginVertical: 10,
     backgroundColor: '#EEE',
