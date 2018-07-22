@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
   },
 
   author: {
+    fontFamily: 'Helvetica',
     fontSize: 12,
     color: '#999',
   },
@@ -40,6 +41,7 @@ const styles = StyleSheet.create({
   },
 
   body: {
+    fontFamily: 'Helvetica',
     fontSize: 12,
     color: '#666',
     lineHeight: 19,
